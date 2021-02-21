@@ -78,7 +78,7 @@
     "twitter-text": "^1.14.7",
     "url-search-params-polyfill": "^2.0.0",
     "webpack": "^2.5.1",
-    "webpack-dev-server": "^2.4.5"
+    "webpack-dev-server": "^3.1.11"
   },
   "engines": {
     "node": "6.2.2"
